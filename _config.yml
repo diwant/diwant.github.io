@@ -6,22 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Awesome Site Title
-email: your-email@domain.com
+title: Creative Engineering
+email: email@me.com
 description: >
-  Awesome site description here
+  Solving software and life with creative engineeringe
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://diwant.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Diwant Vaidya'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+  A software engineer for more than fifteen years, I find
+  that every problem I solve helps me imagine new and innovative
+  answers for questions I ponder about.  Sometimes, its just
+  fun to wonder about the questions.
 author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: diwant
+github_username:  diwant
 
 # Google Analytics
 analytics_id: ""
